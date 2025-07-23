@@ -1,3 +1,5 @@
+Catppuccin theme for neovim with frappe's backgrounds changed to gray (using colorscheme-transformer)
+
 <!-- panvimdoc-ignore-start -->
 
 <h3 align="center">
